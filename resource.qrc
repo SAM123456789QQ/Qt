@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/mainWidget">
+        <file>resource/mainWidget/Image loading failed.png</file>
+        <file>resource/mainWidget/API.png</file>
+        <file>resource/mainWidget/file.png</file>
+        <file>resource/mainWidget/return.png</file>
+        <file>resource/mainWidget/screenshot.png</file>
+    </qresource>
+    <qresource prefix="/matLabWidget">
+        <file>resource/matLabWidget/failure.png</file>
+        <file>resource/matLabWidget/Success.png</file>
+    </qresource>
+    <qresource prefix="/dateBaseWidget">
+        <file>resource/dateBaseWidget/dateBasePNG.png</file>
+    </qresource>
+</RCC>
