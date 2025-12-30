@@ -1,0 +1,12 @@
+# 精准忽略指定大文件（保留本地，不提交）
+APP/fGeoResult.p3d
+customControl/QWT/qwtd.dll
+
+# Qt项目通用忽略（可选，避免提交编译垃圾）
+*.exe
+*.obj
+*.o
+build/
+debug/
+release/
+*.user  # Qt Creator的用户配置
